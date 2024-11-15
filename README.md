@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marmanvii
 - 👀 I’m interested in Libre Software
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 I’m a Full-Stack Developer
 
 <!---
 Marmanvii/Marmanvii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
